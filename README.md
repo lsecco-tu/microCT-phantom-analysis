@@ -4,10 +4,10 @@ MATLAB code for the analysis of micro-CT phantom data acquired at different tube
 
 ## Contents
 - microCT_analysis.m – main analysis script
-- findCircleCenters.m – auxiliary function for center detection
+- circleCenterMask.m – auxiliary function for center detection
 
 ## Requirements
-- MATLAB R2021b or newer
+- MATLAB R2025a 
 - NIfTI toolbox
 
 ## Usage
