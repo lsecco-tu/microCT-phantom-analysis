@@ -11,4 +11,7 @@ MATLAB code for the analysis of micro-CT phantom data acquired at different tube
 - NIfTI toolbox
 
 ## Usage
-Run `microCT_analysis.m` after placing the reconstructed NIfTI files in the working directory.
+Run `microCT_analysis.m`after placing the reconstructed NIfTI files in the working directory.
+
+## Author
+Linda Secco
